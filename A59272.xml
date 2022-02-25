@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sermon preach'd by a reverend father in the Jesuits chappel at the Kings Inn, Dublin, on St. Patrick's Day, 1687/8</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59272</idno>
+            <idno type="STC">Wing S2636</idno>
+            <idno type="STC">ESTC R34237</idno>
+            <idno type="EEBO-CITATION">14153579</idno>
+            <idno type="OCLC">ocm 14153579</idno>
+            <idno type="VID">102125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1069:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sermon preach'd by a reverend father in the Jesuits chappel at the Kings Inn, Dublin, on St. Patrick's Day, 1687/8</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Saint Patrick's Day --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:102125:1"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="1" facs="tcp:102125:1"/>
+            <!-- PDF PAGE 42 -->
+            <head>A SERMON PREACH'D By a Reverend Father, in the JESUITS Chappel at the Kings-Inns <hi>Dublin,</hi> on St. <hi>Patrick</hi>'s Day. 1687/8.</head>
+            <opener>
+               <salute>Dear Catolicks,</salute>
+            </opener>
+            <p>IT is not neceſſary wid my ſhelf to relate you de Shapter and Verſhe, becaſh you are not allowed to read de Bibles; but de Vords be deeſe, <hi>And</hi> Macabeuſh <hi>he did make a great flau-ter.</hi>
+            </p>
+            <p>Which betokens, dat <hi>Macabeuſh</hi> vaſh a great Varrior, I by my Shoul vas he; and ſho vas <hi>Artaxus,</hi> and ſho vas <hi>Darius,</hi> de King of <hi>Perſia;</hi> and ſho vas <hi>Alexander</hi> de Great: Now Catolicks, which of all deeſe do you tink vas de greateſt Varrior; I am know very well you will ſhay, <hi>Alexander</hi> de Great; and for fye? becaſh he did conquer de hole Vorld: but I ſhay unto you, dere Kri<g ref="char:EOLhyphen"/>ſtians, dat none of dem all vas like our Catolick Var<g ref="char:EOLhyphen"/>rior <hi>Tyrconnel,</hi> for he iſh a greater Varrior nor none of dem all; yonder he ſhits. God bleſs King <hi>Jamas,</hi> for he has reſtore us to our own Country and Religſhion; and
+<pb n="2" facs="tcp:102125:2"/>
+               <!-- PDF PAGE 43 -->
+fye did he do ſho? becaſh he is true Catolick, and did beleive in the Shurch, for de Shurch, dere Catolicks, ſhe is like de Cammomille, de more you vill ſhit upon her de more ſhe vill grow. And now, dere Catolicks, diſh be<g ref="char:EOLhyphen"/>ing St. <hi>Parick</hi>'s Day, I vill make you an Exhortation re<g ref="char:EOLhyphen"/>lating to diſh holy Day: and firſht of all, you vill know diſh holy St. <hi>Parick,</hi> fen he voud come from <hi>Rome</hi> to diſh place, our holy Fader de Pope (reſht his Shoul) did make him de Primate of <hi>Ireland;</hi> ſho diſh holy Shaint, fen he vid be after coming over, all de Devils voud came be<g ref="char:EOLhyphen"/>fore him: but de holy Shaint vid make de ſhigne of de Croſs, and all de hole of dem vas preſently vanish. In de ſame time dere vas a great King in diſh Country, dat vas told, a Man wid a ſhaven Crown voud take his Country, and make ſhanges in his Laws wid himſelf: ſho fen he did hear Shaint <hi>Parick</hi> vas comd, and had de ſhaven Head, he did ſent to kill him: but fen dey did ſhee he vas only a poor Prieſht, dey did make ſcorn upon him, and ſhet a great maſty Dog to vorry him: but fat do you tink, but fen de holy Shaint vas after ma<g ref="char:EOLhyphen"/>king de ſhign of de Croſs he vas dead in de plaſhe. I am know you pay your Devotion to Shaint <hi>Parick</hi> very vel, for I obſerve in de houſhes in de Country fere I comd, ſome of dere Shildren vil have de Name of <hi>Parick</hi> upon dem very good Devoſhion. But den Catolicks, anoder vay for your Devoſhion to diſh holy Shaint is to pray to him, fich I take notice your Pariſh Prieſhts do very vel. And anoder way to pay your Devoſhion to Shaint <hi>Parick</hi>
+               <pb n="3" facs="tcp:102125:2"/>
+               <!-- PDF PAGE 43 -->
+is by keeping diſh Day deicate to our great Apoſhtel. Dere Catolicks, how do you tink vil you keep it now? I ſhay, do not be drunk, you are muſh to blame for dat: I tell you, I vill know ſhome of you drunk on Shaint <hi>Parick</hi>'s Day, I by my Shoul, on <hi>Good Friday</hi> it ſelf: have a care of dat; I am very well know you will go drink your Bunn <hi>Parick;</hi> I, and you vill not be con<g ref="char:EOLhyphen"/>tent vid dat, but you vill drink till you be drunken; but I muſht tell you dere Catolicks dat doeſh Shins dat you do take mo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t delight in, oftent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes voud be your Deſtruction; for I vill tell you de Story, to illuſtrate diſh matter; it iſh a true Story, by my Shoul, for I had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from de Prieſht of de Pariſh fere de ting vaſh done. Dere vaſh ſhom Gentlemen vaſh drinking dere Bunn <hi>Parick</hi> upon Shaint <hi>Parick</hi>'s Day, and dey vent into a houſh for drinkin, and dere vaſh up ſtairs in de houſh, and dere dey vere drinking till dey vere dronkin; and de Voman of de houſh was brewing dat day, and ſhe did left a tub of hot Vorts at de ſtair foots to cool; and one of de Men vas coming down Stairs, and he had heels upon his Brogues, and de heel of his Brogue did take hold upon de Stairs, and <hi>Joy</hi> he did tumble vid his Head forward into de tub of hot Vorts, and dere he vaſh ſcal'd to dett. Shee dere now, dere Catolicks, fat comes of Dronkening: did not I told you ſo, dat doos ſhins dat a Man takes delight in does often prove his ruine; for diſh Man did love cold Ale, and he was drown'd in hot Vorts. Dere is for you now, dere Cato<g ref="char:EOLhyphen"/>licks:
+<pb n="4" facs="tcp:102125:3"/>
+               <!-- PDF PAGE 44 -->
+But now to make you good Kriſtians, you muſt take de Exſhample of dat good Vomans dat had Oyl did grow in her Pots; dey vere all clean Pots but one Pot, and de Oyl did not grow in dat Pot: fye, dear Catolicks, I am muſh fear your Shouls be like dat dirty Pot fere no Oyl voud grow; but I vill told you now, if your Shouls be like dat you are all dam; I ſhay you are all dam, I by my Shoul, all de hole of you; dere<g ref="char:EOLhyphen"/>fore, dere Catolicks, have a care of dat. And you, good Vomans, you muſt not go <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nere de holy Altar vid dem fine Cloaſh, and does Patch upon your Faſhes. I vill tell you now, fen de Men ſhould be <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> looking upon de holy Cruſhifex, dey will be looking upon your Faſhes. <hi>O hone, Joy,</hi> I told you now, dere be de <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> obſerve dem, dey be de better Kriſtians den none of you all: I told you ſho, de Devil vill take you all, if you voud not mend. De <hi>Quakers</hi> be de beſt Kriſtians in de Vorld if dey vere joyn to de Catolick Shurch. Now let uſh pray for our gracious King <hi>Jamas,</hi> dat he may have a long and proſperous Reign, and <hi>Iſſue Male,</hi> wiſe Council, ſtour valiant Soldiers, faitful loving Subjects, dat being all united in one Faith, we may embrace one anoder in de Arms of Love. In de Name, <hi>&amp;c.</hi> Amen.</p>
+            <p>
+               <hi>After which he kneel'd down and paid his Adorations to the Picture of St.</hi> Francis, <hi>on his right Hand.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Baldwin</hi> in the <hi>Old-Bayly.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
